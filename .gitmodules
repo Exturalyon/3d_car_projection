@@ -1,0 +1,3 @@
+[submodule "coco1"]
+	path = coco1
+	url = https://github.com/waleedka/coco.git
